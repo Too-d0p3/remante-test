@@ -1,0 +1,8 @@
+parameters:
+
+doctrine:
+    user: root
+    password:
+    dbname: remante-test
+    metadata:
+        App: %appDir%
